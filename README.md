@@ -3,7 +3,7 @@
 This is an interactive drum kit web app built as part of [Angela Yu's Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).  
 Users can play drum sounds either by clicking the buttons or pressing specific keys on the keyboard.
 
-live: 
+live: https://nawfal-developer.github.io/drum-kit/
 
 ##  Project Purpose
 
